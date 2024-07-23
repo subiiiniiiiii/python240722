@@ -7,7 +7,7 @@ while value >0:
 
 lst = ["apple",100,3.14]
 
-for item in list:
+for item in lst:
     print(item)
 
 print("----range()함수")

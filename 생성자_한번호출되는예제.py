@@ -18,5 +18,8 @@ class Liger(Tiger, Lion):
     def __init__(self):
         super().__init__()
         print("Liger __init__()")
+
+T1 = Tiger()
+L2 = Liger()
         
         
