@@ -9,4 +9,11 @@ f = open("demo.txt","rt",encoding = "utf-8")
 result = f.read()
 print(result)
 
+#리스트로 받기
+f.seek(0)
+lst =f.readlines()
+print(lst)
+
 f.close()
+
+dir(str)
