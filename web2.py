@@ -1,5 +1,4 @@
 #web2.py
-
 import requests
 from bs4 import BeautifulSoup
 
